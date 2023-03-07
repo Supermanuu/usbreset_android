@@ -3,6 +3,14 @@
 
 This repository allows you to generate a usbreset binary for Android.
 
+## Clone
+
+This repo has to be cloned with recurse submodules or execute this after cloning:
+
+```bash
+git submodule update --init
+```
+
 ## Build
 
 To build a usbreset binary you need to run the following command:
